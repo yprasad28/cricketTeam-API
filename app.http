@@ -1,0 +1,4 @@
+
+### Get players list 
+
+GET  http://localhost:3000/
